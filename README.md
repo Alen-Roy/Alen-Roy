@@ -32,7 +32,11 @@
 - 🥇 Built multiple **Flutter apps** with Firebase integration  
 - 🌍 Contributed to **open-source projects**  
 - 🎯 Active learner in **Machine Learning & AI for apps**  
-- ✨ Recognized for crafting **beautiful UI/UX** designs  
+- ✨ Recognized for crafting **beautiful UI/UX** designs
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alen-roy&theme=dracula&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies"/>
+</p>
 
 ---
 
