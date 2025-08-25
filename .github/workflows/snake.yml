@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write   # ✅ Allows pushing to branches
+      contents: write  
 
     steps:
       - name: Checkout repo
