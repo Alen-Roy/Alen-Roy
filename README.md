@@ -2,9 +2,11 @@
 <h3 align="center">🚀 Flutter & Firebase Developer | UI/UX Designer | ML Explorer</h3>
 
 <!-- Cool Banner -->
+<!-- Cool Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="250"/>
 </p>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
