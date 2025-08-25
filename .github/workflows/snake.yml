@@ -3,7 +3,7 @@ name: Generate Snake
 on:
   schedule: # Runs every 12 hours
     - cron: "0 */12 * * *"
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -11,6 +11,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # ✅ Allows pushing to branches
 
     steps:
       - name: Checkout repo
