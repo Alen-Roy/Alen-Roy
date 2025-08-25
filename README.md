@@ -97,7 +97,7 @@
 ---
 
 <!-- App Development Animated GIF -->
-<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NzbDJqd2wxbjh0bTgwMTZyaWgxb3cxNTV1cXV6MDY3ODNrcG1qeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X3TSLqkGyucj34ELTa/giphy.gif" />
+<img align="right" height="200" src="https://media1.tenor.com/m/mScwwcj9AJIAAAAd/black-myth-wukong.gif" />
 
 ### 📊 GitHub Stats  
 <div align="center">
