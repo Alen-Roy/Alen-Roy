@@ -114,11 +114,12 @@
 </p>
 
 ---
-
-### 🔥 GitHub Streak  
+### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Alen-Roy&theme=dracula&hide_border=true&border_radius=10&v=6"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Alen-Roy&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 </p>
+
+
 
 ---
 
