@@ -59,7 +59,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Alen-Roy/Alen-Roy/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Alen-Roy/Alen-Roy/blob/main/snake.yml" />
 
 ###
 
