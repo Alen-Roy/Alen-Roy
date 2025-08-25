@@ -1,6 +1,11 @@
 <h1 align="center">👋 Hey, I'm Alen Roy</h1>
 <h3 align="center">🚀 Flutter & Firebase Developer | UI/UX Designer | ML Explorer</h3>
 
+<!-- Cool Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="600"/>
+</p>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Turning+Ideas+Into+Mobile+Apps;Flutter+%2B+Firebase+Specialist;State+Management+Pro;UI%2FUX+Designer;Learning+ML+with+Python;Always+Exploring+Tech" alt="Typing SVG" />
@@ -21,6 +26,21 @@
 
 ---
 
+### 🏆 Achievements & Highlights  
+- 🥇 Built multiple **Flutter apps** with Firebase integration  
+- 🌍 Contributed to **open-source projects**  
+- 🎯 Active learner in **Machine Learning & AI for apps**  
+- ✨ Recognized for crafting **beautiful UI/UX** designs  
+
+---
+
+### 📚 Currently Exploring  
+- 🤖 Machine Learning with Python (TensorFlow / Scikit-Learn)  
+- 📱 Advanced Flutter animations & custom widgets  
+- ☁️ Firebase Cloud Functions & Firestore optimizations  
+
+---
+
 ### 🛠️ Tech Stack & Tools  
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -34,6 +54,15 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+### ⚡ Profile Insights  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alen-Roy&style=for-the-badge&color=blue" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/Alen-Roy?label=Followers&style=for-the-badge&color=green" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/Alen-Roy?label=Stars&style=for-the-badge&color=yellow" alt="stars"/>
 </p>
 
 ---
@@ -64,6 +93,7 @@
 
 ---
 
+<!-- App Development Animated GIF -->
 <img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NzbDJqd2wxbjh0bTgwMTZyaWgxb3cxNTV1cXV6MDY3ODNrcG1qeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X3TSLqkGyucj34ELTa/giphy.gif" />
 
 ### 📊 GitHub Stats  
@@ -71,6 +101,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Alen-Roy&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&v=6" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alen-Roy&layout=compact&theme=dracula&size_weight=0.3&count_weight=0.7&exclude_repo=Alen-Roy.github.io,portfolio,personal-website,website-template,HTML-CSS-JS-Templates&langs_count=8&hide=C,Java,Objective-C&v=6" height="150"/>
 </div>
+
+---
+
+### 📊 My Coding Stats (Visualized)  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alen-Roy&theme=dracula"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alen-Roy&theme=dracula"/>
+</p>
 
 ---
 
