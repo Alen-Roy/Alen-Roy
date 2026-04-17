@@ -1,5 +1,5 @@
-<h1 align="center">✨ Hey, I'm Alen Roy ✨</h1>
-<h3 align="center">🚀 Flutter & Firebase Developer | 🎨 UI/UX Designer | 🤖 ML Explorer</h3>
+<h1 align="center"> Hey, I'm Alen Roy </h1>
+<h3 align="center">Flutter & Firebase Developer |  UI/UX Designer |  ML Explorer</h3>
 
 ---
 
@@ -17,25 +17,25 @@
 
 ---
 
-## 🚀 About Me  
-💡 *Turning creative ideas into mobile experiences*  
-- 🔭 Building: **SafarNow – A Smart Trip Planner App**  
-- 🌱 Learning: **Advanced State Management | Firebase Cloud Functions | ML with Python**  
-- 🎨 Passionate about: **UI/UX design + smooth app architecture**  
-- 🤝 Open to: **Collaborations, internships, and open-source contributions**  
-- 📫 Reach me at: **[alenroy73@gmail.com](mailto:alenroy73@gmail.com)**  
+##  About Me  
+ *Turning creative ideas into mobile experiences*  
+-  Building: **SafarNow – A Smart Trip Planner App**  
+-  Learning: **Advanced State Management | Firebase Cloud Functions | ML with Python**  
+-  Passionate about: **UI/UX design + smooth app architecture**  
+-  Open to: **Collaborations, internships, and open-source contributions**  
+-  Reach me at: **[alenroy73@gmail.com](mailto:alenroy73@gmail.com)**  
 
 ---
 
-## 🏆 Achievements  
-✅ Built and published **multiple Flutter apps** powered by Firebase  
-✅ Contributed to **open-source projects** & community learning  
-✅ Designed **modern UI/UX prototypes** with Figma  
-✅ Exploring **AI + ML** for intelligent mobile experiences  
+##  Achievements  
+- Built and published **multiple Flutter apps** powered by Firebase  
+- Contributed to **open-source projects** & community learning  
+- Designed **modern UI/UX prototypes** with Figma  
+- Exploring **AI + ML** for intelligent mobile experiences  
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alen-Roy/Alen-Roy/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alen-Roy/Alen-Roy/output/pacman-contribution-graph.svg">
@@ -48,7 +48,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alen-Roy&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alen-Roy&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
@@ -56,7 +56,7 @@
 
 ---
 
-## 🔥 Streak & Contributions  
+##  Streak & Contributions  
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=Alen-Roy&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 </p>
@@ -66,7 +66,7 @@
 
 ---
 
-## 🌐 Connect with Me  
+##  Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/alen-roy-a4b80230b/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
@@ -84,7 +84,7 @@
 
 ---
 
-## ✨ Fun Touch  
+##  Fun Touch  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
